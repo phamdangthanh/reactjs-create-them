@@ -1,0 +1,11 @@
+.slick-dots .slick-active {
+    display: none;
+}
+
+.slick-slider {
+    z-index: 1;
+}
+
+.slick-list {
+    z-index: 3;
+}
